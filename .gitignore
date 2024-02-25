@@ -1,7 +1,0 @@
-# Ignoramos todos los .json ya que seran privados
-*.json
-
-# Ignoramos todos los .class (archivos compilados generados automaticamente)
-*.class
-
-.gitignore
